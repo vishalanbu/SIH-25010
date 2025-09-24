@@ -58,6 +58,8 @@ The app will support local languages and voice commands to help farmers who can�
 All heavy computations happen in the cloud, keeping the app light. Farmers’ feedback will help improve recommendations over time.
 
 This approach makes smart farming affordable, accessible, and practical for small farmers.
+
+
 ## Feasibility and Viability
 The tech needed for a smart crop advisory system is already available and affordable. Most farmers have basic smartphones and network access, so reaching them is possible. Using cloud AI and voice support solves literacy and device limits.
 
@@ -70,7 +72,8 @@ With simple design and local partnerships, this idea can be put into practice su
 This system helps farmers grow better crops by giving easy, real-time advice on soil, pests, and weather. It lowers costs by reducing waste on fertilizers and pesticides. Early alerts prevent crop losses, and market info helps farmers get better prices.
 
 It also supports eco-friendly farming, saving water and chemicals. Overall, it improves farmers’ income, productivity, and farming sustainability.
-
+## Flow chart
+"C:\Users\VISHAL\Documents\WhatsApp Image 2025-09-24 at 09.59.26_65ceaa19.jpg"
 
 ## Research and References
 nature.com — On-device AI for climate-resilient farming
