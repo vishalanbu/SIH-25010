@@ -73,7 +73,8 @@ This system helps farmers grow better crops by giving easy, real-time advice on 
 
 It also supports eco-friendly farming, saving water and chemicals. Overall, it improves farmers’ income, productivity, and farming sustainability.
 ## Flow chart
-"C:\Users\VISHAL\Documents\WhatsApp Image 2025-09-24 at 09.59.26_65ceaa19.jpg"
+![WhatsApp Image 2025-09-24 at 09 59 26_65ceaa19](https://github.com/user-attachments/assets/1a5f56c7-b7a8-4a66-b244-49dba23262aa)
+
 
 ## Research and References
 nature.com — On-device AI for climate-resilient farming
